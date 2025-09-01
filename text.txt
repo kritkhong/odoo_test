@@ -1,0 +1,109 @@
+Getting Started
+5
+Lessons
+·
+58 min
+Create an Odoo Database
+ 40 xp
+Navigate in Odoo
+Preview
+ 40 xp
+Google Calendar Sync
+Preview
+ 80 xp
+Multi-Company Basics
+Preview
+ 40 xp
+Multi-Company Transactions
+Preview
+ 40 xp
+Using Odoo
+12
+Lessons
+·
+1 hr 40 min
+Odoo Calendar
+Preview
+ 40 xp
+Schedule Activities
+Preview
+ 40 xp
+Contacts
+Preview
+ 60 xp
+Managing Contacts
+Preview
+ 40 xp
+Exporting and Importing Data
+Preview
+ 60 xp
+Chatter Basics
+Preview
+ 40 xp
+Managing Activities
+Preview
+ 40 xp
+Canned Responses
+Preview
+ 40 xp
+Digest Emails
+Preview
+ 40 xp
+Custom KPIs for Digest Emails
+Preview
+ 60 xp
+Appointments Basics
+Preview
+ 40 xp
+Group Access Rights
+Preview
+ 10 xp
+Odoo Discuss
+5
+Lessons
+·
+34 min
+Odoo Discuss: Direct Messages
+Preview
+ 40 xp
+Odoo Discuss: Voice & Video Calls
+Preview
+ 40 xp
+Odoo Discuss: Channels
+Preview
+ 40 xp
+Odoo Discuss: WhatsApp Basics
+Preview
+ 40 xp
+WhatsApp: Advanced Setup
+Preview
+ 40 xp
+Business Flows
+8
+Lessons
+·
+2 hr 45 min
+Business Flow: Furniture Store
+Preview
+ 60 xp
+Business Flow: Events and Marketing
+Preview
+ 40 xp
+Business Flow: Restaurant
+Preview
+ 60 xp
+Business Flow: eLearning
+Preview
+ 60 xp
+Business Flow: Subscriptions as an Online Business
+Preview
+ 60 xp
+Business Flow: Administrative Department
+Preview
+ 40 xp
+Business Flow: Construction Project
+Preview
+ 60 xp
+Business Flow: Airproof
+Preview
+ 60 xp
